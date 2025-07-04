@@ -3,13 +3,9 @@
 This repository contains the code and data for the ML part of the paper:
 
 Numerical and data-driven modeling of spall failure in polycrystalline ductile materials
-Indrashish Saha, Lori Graham-Brady
+Indrashish Saha and Lori Graham-Brady
 
-
-## Physics-based models
-
-The physics-based crystal plasticity models are defined in the paper and will be available upon request.
-![alt text](https://github.com/Indrashish95/Learning-spall-failure-with-Neural-Operators/blob/main/media/aba_v1_peq_new.jpg?raw=true)
+Link to arxiv: *link*
 
 ## Dataset
 
