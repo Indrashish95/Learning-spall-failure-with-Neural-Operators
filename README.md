@@ -3,6 +3,7 @@
 This repository contains the code and data for the ML part of the paper:
 
 Numerical and data-driven modeling of spall failure in polycrystalline ductile materials
+
 Indrashish Saha and Lori Graham-Brady
 
 Link to arxiv: [https://doi.org/10.48550/arXiv.2507.03706]
