@@ -6,6 +6,8 @@ Numerical and data-driven modeling of spall failure in polycrystalline ductile m
 
 Indrashish Saha and Lori Graham-Brady
 
+![alt text](https://raw.githubusercontent.com/Indrashish95/Learning-spall-failure-with-Neural-Operators/main/media/30grain1_gif.gif)
+
 Link to arxiv: [https://doi.org/10.48550/arXiv.2507.03706]
 
 ## Dataset
@@ -24,6 +26,7 @@ The dataset is hosted at: *link*
 ## DL Models
 
 There are 3 DL models used in the paper:
+
 
 1. 3D U-net 
 
