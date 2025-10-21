@@ -1,6 +1,6 @@
 # Learning-spall-failure-with-Neural-Operators
 
-This repository contains the code and data for the ML part of the paper:
+This repository contains the code and data for the surrogate model part of the paper:
 
 Numerical and data-driven modeling of spall failure in polycrystalline ductile materials
 
