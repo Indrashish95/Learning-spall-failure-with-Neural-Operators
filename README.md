@@ -34,6 +34,14 @@ There are 3 DL models used in the paper:
 
 3. U-FNO 3D [https://github.com/gegewen/ufno]
 
+
+## To Run the codes:
+1. Change the data_dir = "./data/" & main_dir = "./"  variables inside the 3dunet_torch.py, UFNO_impact.py, and FNO_impact.py for Unet,
+   UFNO and FNO model training respectively.
+
+2. To run evaluations do the above in model_eval_new.py files in each folder.
+
+
 *All the codes are modified according to the need of the current problem and only takes the classes of FNO and U-FNO from these implementations*
 
 
